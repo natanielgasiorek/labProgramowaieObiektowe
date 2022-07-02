@@ -1,0 +1,149 @@
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\Sklep Zoologiczny.exe.config
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\Sklep Zoologiczny.exe
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\Sklep Zoologiczny.pdb
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Mvvm.v21.2.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.Core.v21.2.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.Themes.Office2019Colorful.v21.2.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\EntityFramework.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Mvvm.v21.2.xml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.Core.v21.2.xml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\EntityFramework.xml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\de\DevExpress.Xpf.Core.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\es\DevExpress.Xpf.Core.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ja\DevExpress.Xpf.Core.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ru\DevExpress.Xpf.Core.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Sklep Zoologiczny.csproj.AssemblyReference.cache
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Sklep Zoologiczny.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\MainWindow.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\MainWindow.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\App.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Sklep Zoologiczny_Content.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Sklep Zoologiczny_MarkupCompile.cache
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Sklep Zoologiczny.g.resources
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Sklep_Zoologiczny.Properties.Resources.resources
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Sklep Zoologiczny.csproj.GenerateResource.cache
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Sklep Zoologiczny.csproj.CoreCompileInputs.cache
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Sklep Zoologiczny.csproj.CopyComplete
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Sklep Zoologiczny.exe
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Sklep Zoologiczny.pdb
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Sklep Zoologiczny.exe.licenses
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Dodawanie_kategorii.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Dodawanie_kategorii.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Dodawanie_podkategorii.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Dodawanie_producenta.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Dodawanie_produktu.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Edytowanie_kategorii.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Edytowanie_podkatgorii.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Edytowanie_producenta.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Edytowanie_produktu.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Usuwanie_kategorii.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Usuwanie_podkategorii.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Usuwanie_producenta.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Usuwanie_produktu.baml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Dodawanie_podkategorii.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Dodawanie_producenta.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Dodawanie_produktu.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Edytowanie_kategorii.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Edytowanie_podkatgorii.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Edytowanie_producenta.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Edytowanie_produktu.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Usuwanie_kategorii.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Usuwanie_podkategorii.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Usuwanie_producenta.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\obj\Debug\Widoki\Usuwanie_produktu.g.cs
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Images.v21.2.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.Controls.v21.2.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.Docking.v21.2.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.Grid.v21.2.Core.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.Grid.v21.2.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.Layout.v21.2.Core.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.LayoutControl.v21.2.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.NavBar.v21.2.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.Office.v21.2.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.Printing.v21.2.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.Ribbon.v21.2.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.RichEdit.v21.2.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.DocumentViewer.v21.2.Core.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.Controls.v21.2.xml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.Docking.v21.2.xml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.Grid.v21.2.xml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.Grid.v21.2.Core.xml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.Layout.v21.2.Core.xml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.LayoutControl.v21.2.xml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.NavBar.v21.2.xml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.Printing.v21.2.xml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.Ribbon.v21.2.xml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.RichEdit.v21.2.xml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\DevExpress.Xpf.DocumentViewer.v21.2.Core.xml
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\de\DevExpress.Xpf.Controls.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\es\DevExpress.Xpf.Controls.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ja\DevExpress.Xpf.Controls.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ru\DevExpress.Xpf.Controls.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\de\DevExpress.Xpf.Docking.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\es\DevExpress.Xpf.Docking.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ja\DevExpress.Xpf.Docking.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ru\DevExpress.Xpf.Docking.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\de\DevExpress.Xpf.Grid.v21.2.Core.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\es\DevExpress.Xpf.Grid.v21.2.Core.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ja\DevExpress.Xpf.Grid.v21.2.Core.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ru\DevExpress.Xpf.Grid.v21.2.Core.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\de\DevExpress.Xpf.LayoutControl.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\es\DevExpress.Xpf.LayoutControl.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\de\DevExpress.Xpf.NavBar.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\es\DevExpress.Xpf.NavBar.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ja\DevExpress.Xpf.NavBar.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ru\DevExpress.Xpf.NavBar.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\de\DevExpress.Xpf.Printing.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\es\DevExpress.Xpf.Printing.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ja\DevExpress.Xpf.Printing.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ru\DevExpress.Xpf.Printing.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\de\DevExpress.Xpf.Ribbon.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\es\DevExpress.Xpf.Ribbon.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ja\DevExpress.Xpf.Ribbon.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ru\DevExpress.Xpf.Ribbon.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\de\DevExpress.Xpf.RichEdit.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\es\DevExpress.Xpf.RichEdit.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ja\DevExpress.Xpf.RichEdit.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ru\DevExpress.Xpf.RichEdit.v21.2.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v21.2.Core.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v21.2.Core.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v21.2.Core.resources.dll
+C:\Users\Martyna\OneDrive\Pulpit\Projekt_Sklep_Zoologiczny_Martyna_Gryga_13024\Sklep Zoologiczny\Sklep Zoologiczny\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v21.2.Core.resources.dll

@@ -1,0 +1,16 @@
+﻿<dx:ThemedWindow
+    x:Class="Sklep_Zoologiczny.Widoki.Dodawanie_podkategorii"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+    Title="Dodawanie_podkategorii" Height="500" Width="500"
+    >
+
+    <Grid>
+        <Label Content="Nazwa podkategorii:" HorizontalAlignment="Left" Margin="20,35,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox x:Name="Wpisz_nazwe_podkategorii" HorizontalAlignment="Left" Margin="173,35,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="302"/>
+        <dx:SimpleButton x:Name="Zapisz_nazwe_podkategorii" Content="Zapisz" HorizontalAlignment="Center" Height="41" Margin="0,103,0,0" VerticalAlignment="Top" Width="140" Glyph="{dx:DXImage SvgImages/XAF/Action_SaveScript.svg}" Click="Zapisz_nazwe_podkategorii_Click"/>
+
+
+    </Grid>
+</dx:ThemedWindow>

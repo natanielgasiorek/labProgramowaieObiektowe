@@ -1,0 +1,17 @@
+﻿<dx:ThemedWindow
+    x:Class="Sklep_Zoologiczny.Widoki.Edytowanie_podkatgorii"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+    Title="Edytowanie_podkatgorii" Height="500" Width="500"
+    >
+
+    <Grid>
+        <ComboBox x:Name="ComboBox_wybierz_podkategorie" HorizontalAlignment="Left" Margin="178,30,0,0" VerticalAlignment="Top" Width="225" SelectedItem="{Binding ID_Podkategorii}" DisplayMemberPath="Nazwa_podkategorii" SelectionChanged="ComboBox_wybierz_podkategorie_SelectionChanged"/>
+        <Label Content="Wybierz podkategorie:" HorizontalAlignment="Left" Margin="23,30,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label Content="Nowa nazwa podkategorii:" HorizontalAlignment="Left" Margin="23,81,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox x:Name="Wpisz_nowa_nazwe_podkategorii" HorizontalAlignment="Left" Margin="207,81,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="257"/>
+        <dx:SimpleButton x:Name="Zapisz_edytowanie_nazwy_podkategorii" Content="Zapisz" HorizontalAlignment="Left" Height="37" Margin="171,156,0,0" VerticalAlignment="Top" Width="134" Glyph="{dx:DXImage SvgImages/XAF/Action_SaveScript.svg}" Click="Zapisz_edytowanie_nazwy_podkategorii_Click"/>
+
+    </Grid>
+</dx:ThemedWindow>

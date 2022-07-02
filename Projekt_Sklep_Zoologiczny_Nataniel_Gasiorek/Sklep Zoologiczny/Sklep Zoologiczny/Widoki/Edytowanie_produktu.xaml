@@ -1,0 +1,25 @@
+﻿<dx:ThemedWindow
+    x:Class="Sklep_Zoologiczny.Widoki.Edytowanie_produktu"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+    Title="Edytowanie_produktu" Height="700" Width="700"
+    >
+
+    <Grid>
+        <dx:SimpleButton x:Name="Zapisz_edytowanie_produktu" Content="Zapisz" HorizontalAlignment="Left" Height="55" Margin="246,287,0,0" VerticalAlignment="Top" Width="128" Glyph="{dx:DXImage SvgImages/XAF/Action_SaveScript.svg}" Click="Zapisz_edytowanie_produktu_Click"/>
+        <Label Content="Wybierz produkt:" HorizontalAlignment="Left" Margin="24,23,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label Content="Nazwa produktu:" HorizontalAlignment="Left" Margin="24,67,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label Content="Kategoria produktu:" HorizontalAlignment="Left" Margin="24,108,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label Content="Podkategoria produktu:" HorizontalAlignment="Left" Margin="24,148,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label Content="Producent produktu:" HorizontalAlignment="Left" Margin="24,191,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Label Content="Cena:" HorizontalAlignment="Left" Margin="24,237,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox x:Name="Wpisz_cene_produktu" HorizontalAlignment="Left" Margin="73,237,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="Wpisz_nazwe_produktu" HorizontalAlignment="Left" Margin="133,67,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="354"/>
+        <ComboBox x:Name="ComboBox_wybierz_produkt" HorizontalAlignment="Left" Margin="141,23,0,0" VerticalAlignment="Top" Width="222" SelectedItem="{Binding ID_Produktu}" DisplayMemberPath="Nazwa_produktu"/>
+        <ComboBox x:Name="ComboBox_wpisz_nazwe_kategorii" HorizontalAlignment="Left" Margin="154,108,0,0" VerticalAlignment="Top" Width="220" SelectedItem="{Binding ID_Kategorii}" DisplayMemberPath="Nazwa_kategorii"/>
+        <ComboBox x:Name="ComboBox_wpisz_nazwe_podkategorii" HorizontalAlignment="Left" Margin="175,148,0,0" VerticalAlignment="Top" Width="199" SelectedItem="{Binding ID_Podkategorii}" DisplayMemberPath="Nazwa_podkategorii"/>
+        <ComboBox x:Name="ComboBox_wpisz_nazwe_producenta" HorizontalAlignment="Left" Margin="154,191,0,0" VerticalAlignment="Top" Width="196" SelectedItem="{Binding ID_Producenta}" DisplayMemberPath="Nazwa_producenta"/>
+
+    </Grid>
+</dx:ThemedWindow>

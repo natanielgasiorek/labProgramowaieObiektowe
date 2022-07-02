@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SklepModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Kategorie">
+    <Key>
+      <PropertyRef Name="ID_Kategorii" />
+    </Key>
+    <Property Name="ID_Kategorii" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nazwa_kategorii" Type="varchar" MaxLength="45" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Podkategorie">
+    <Key>
+      <PropertyRef Name="ID_Podkategorii" />
+    </Key>
+    <Property Name="ID_Podkategorii" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nazwa_podkategorii" Type="varchar" MaxLength="45" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Producenci">
+    <Key>
+      <PropertyRef Name="ID_Producenta" />
+    </Key>
+    <Property Name="ID_Producenta" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nazwa_producenta" Type="varchar" MaxLength="45" />
+  </EntityType>
+  <EntityType Name="Produkty">
+    <Key>
+      <PropertyRef Name="ID_Produktu" />
+    </Key>
+    <Property Name="ID_Produktu" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ID_Producenta" Type="int" />
+    <Property Name="ID_Kategorii" Type="int" />
+    <Property Name="ID_Podkategorii" Type="int" />
+    <Property Name="Nazwa_produktu" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="Cena" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK__Produkty__ID_Kat__30F848ED">
+    <End Role="Kategorie" Type="Self.Kategorie" Multiplicity="0..1" />
+    <End Role="Produkty" Type="Self.Produkty" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategorie">
+        <PropertyRef Name="ID_Kategorii" />
+      </Principal>
+      <Dependent Role="Produkty">
+        <PropertyRef Name="ID_Kategorii" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Produkty__ID_Pod__31EC6D26">
+    <End Role="Podkategorie" Type="Self.Podkategorie" Multiplicity="0..1" />
+    <End Role="Produkty" Type="Self.Produkty" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Podkategorie">
+        <PropertyRef Name="ID_Podkategorii" />
+      </Principal>
+      <Dependent Role="Produkty">
+        <PropertyRef Name="ID_Podkategorii" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Produkty__ID_Pro__300424B4">
+    <End Role="Producenci" Type="Self.Producenci" Multiplicity="0..1" />
+    <End Role="Produkty" Type="Self.Produkty" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Producenci">
+        <PropertyRef Name="ID_Producenta" />
+      </Principal>
+      <Dependent Role="Produkty">
+        <PropertyRef Name="ID_Producenta" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SklepModelStoreContainer">
+    <EntitySet Name="Kategorie" EntityType="Self.Kategorie" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Podkategorie" EntityType="Self.Podkategorie" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Producenci" EntityType="Self.Producenci" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Produkty" EntityType="Self.Produkty" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Produkty__ID_Kat__30F848ED" Association="Self.FK__Produkty__ID_Kat__30F848ED">
+      <End Role="Kategorie" EntitySet="Kategorie" />
+      <End Role="Produkty" EntitySet="Produkty" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Produkty__ID_Pod__31EC6D26" Association="Self.FK__Produkty__ID_Pod__31EC6D26">
+      <End Role="Podkategorie" EntitySet="Podkategorie" />
+      <End Role="Produkty" EntitySet="Produkty" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Produkty__ID_Pro__300424B4" Association="Self.FK__Produkty__ID_Pro__300424B4">
+      <End Role="Producenci" EntitySet="Producenci" />
+      <End Role="Produkty" EntitySet="Produkty" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

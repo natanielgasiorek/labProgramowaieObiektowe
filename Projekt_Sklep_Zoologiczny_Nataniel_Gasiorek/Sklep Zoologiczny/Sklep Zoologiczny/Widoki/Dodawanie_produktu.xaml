@@ -1,0 +1,28 @@
+﻿<dx:ThemedWindow
+    x:Class="Sklep_Zoologiczny.Widoki.Dowanie_produktu"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+    Title="Dodawanie_produktu" Height="700" Width="700"
+    >
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="192*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Nazwa produktu:" HorizontalAlignment="Left" Margin="3,31,0,0" VerticalAlignment="Top" FontWeight="Bold" Grid.Column="1" Height="22" Width="96" Grid.ColumnSpan="2"/>
+        <Label Content="Cena:" HorizontalAlignment="Left" Margin="0,189,0,0" VerticalAlignment="Top" FontWeight="Bold" Grid.Column="2" Height="22" Width="31" RenderTransformOrigin="-0.084,1.075"/>
+        <TextBox x:Name="Wpisz_nazwe_produktu" HorizontalAlignment="Left" Margin="108,31,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="433" Grid.Column="2" Height="22"/>
+        <TextBox x:Name="Wpisz_cene_produktu" HorizontalAlignment="Left" Margin="46,189,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Grid.Column="2" Height="22"/>
+        <Label Content="Kategoria produktu:" HorizontalAlignment="Left" Margin="3,74,0,0" VerticalAlignment="Top" FontWeight="Bold" Grid.Column="1" Height="22" Width="114" Grid.ColumnSpan="2"/>
+        <Label Content="Podkategoria produktu:" HorizontalAlignment="Left" Margin="0,115,0,0" VerticalAlignment="Top" FontWeight="Bold" Grid.Column="2" Height="22" Width="135"/>
+        <Label Content="Producent produktu:" HorizontalAlignment="Left" Margin="0,153,0,0" VerticalAlignment="Top" FontWeight="Bold" Grid.Column="2" Height="22" Width="118"/>
+        <ComboBox x:Name="ComboBox_wpisz_nazwe_kategorii" HorizontalAlignment="Left" Margin="130,74,0,0" VerticalAlignment="Top" Width="234" RenderTransformOrigin="-0.129,-0.44" Grid.Column="2" Height="22" SelectedItem="{Binding ID_Kategorii}" DisplayMemberPath="Nazwa_kategorii"/>
+        <ComboBox x:Name="ComboBox_wpisz_nazwe_podkategorii" HorizontalAlignment="Left" Margin="146,115,0,0" VerticalAlignment="Top" Width="218" Grid.Column="2" Height="22" SelectedItem="{Binding ID_Podkategorii}" DisplayMemberPath="Nazwa_podkategorii"/>
+        <ComboBox x:Name="ComboBox_wpisz_nazwe_producenta" HorizontalAlignment="Left" Margin="146,153,0,0" VerticalAlignment="Top" Width="218" Grid.Column="2" Height="22" SelectedItem="{Binding ID_Producenta}" DisplayMemberPath="Nazwa_producenta"/>
+        <dx:SimpleButton x:Name="Zapisz_dodawanie_produktu" Grid.Column="2" Content="Zapisz" HorizontalAlignment="Center" Height="72" Margin="0,270,0,0" VerticalAlignment="Top" Width="164" Glyph="{dx:DXImage SvgImages/XAF/Action_SaveScript.svg}" Click="Zapisz_dodawanie_produktu_Click"/>
+
+    </Grid>
+</dx:ThemedWindow>

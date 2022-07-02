@@ -1,0 +1,15 @@
+﻿<dx:ThemedWindow
+    x:Class="Sklep_Zoologiczny.Widoki.Usuwanie_kategorii"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+    Title="Usuwanie_kategorii" Height="500" Width="500"
+    >
+
+    <Grid>
+        <Label Content="Usuń kategorię:" HorizontalAlignment="Left" Margin="24,41,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+        <dx:SimpleButton x:Name="Zapisz_usuwanie_kategorii" Content="Zapisz" HorizontalAlignment="Center" Height="31" Margin="0,104,0,0" VerticalAlignment="Top" Width="118" Glyph="{dx:DXImage SvgImages/XAF/Action_SaveScript.svg}" Click="Zapisz_usuwanie_kategorii_Click"/>
+        <ComboBox x:Name="ComboBox_Kategoria" HorizontalAlignment="Left" Margin="142,41,0,0" VerticalAlignment="Top" Width="257" SelectedItem="{Binding ID_Kategorii}" DisplayMemberPath="Nazwa_kategorii"/>
+
+    </Grid>
+</dx:ThemedWindow>

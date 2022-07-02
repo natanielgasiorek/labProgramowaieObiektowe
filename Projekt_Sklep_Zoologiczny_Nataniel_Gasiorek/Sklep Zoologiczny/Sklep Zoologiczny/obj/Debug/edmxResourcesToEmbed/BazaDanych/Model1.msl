@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SklepModelStoreContainer" CdmEntityContainer="SklepEntities">
+    <EntitySetMapping Name="Kategorie">
+      <EntityTypeMapping TypeName="SklepModel.Kategorie">
+        <MappingFragment StoreEntitySet="Kategorie">
+          <ScalarProperty Name="ID_Kategorii" ColumnName="ID_Kategorii" />
+          <ScalarProperty Name="Nazwa_kategorii" ColumnName="Nazwa_kategorii" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Podkategorie">
+      <EntityTypeMapping TypeName="SklepModel.Podkategorie">
+        <MappingFragment StoreEntitySet="Podkategorie">
+          <ScalarProperty Name="ID_Podkategorii" ColumnName="ID_Podkategorii" />
+          <ScalarProperty Name="Nazwa_podkategorii" ColumnName="Nazwa_podkategorii" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Producenci">
+      <EntityTypeMapping TypeName="SklepModel.Producenci">
+        <MappingFragment StoreEntitySet="Producenci">
+          <ScalarProperty Name="ID_Producenta" ColumnName="ID_Producenta" />
+          <ScalarProperty Name="Nazwa_producenta" ColumnName="Nazwa_producenta" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Produkty">
+      <EntityTypeMapping TypeName="SklepModel.Produkty">
+        <MappingFragment StoreEntitySet="Produkty">
+          <ScalarProperty Name="ID_Produktu" ColumnName="ID_Produktu" />
+          <ScalarProperty Name="ID_Producenta" ColumnName="ID_Producenta" />
+          <ScalarProperty Name="ID_Kategorii" ColumnName="ID_Kategorii" />
+          <ScalarProperty Name="ID_Podkategorii" ColumnName="ID_Podkategorii" />
+          <ScalarProperty Name="Nazwa_produktu" ColumnName="Nazwa_produktu" />
+          <ScalarProperty Name="Cena" ColumnName="Cena" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="SklepModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
